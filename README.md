@@ -1,2 +1,2 @@
 # Olá! Me chamo Victor Hugo 👋
-<img alt="top languange" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=liiddell&layout=compact"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liiddell&layout=compact)](https://github.com/liiddell/github-readme-stats&layout=compact)
