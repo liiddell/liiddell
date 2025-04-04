@@ -3,5 +3,5 @@
 </p>
 
 <p align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liiddell&layout=compact&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liiddell&layout=compact&theme=transparent&cache_seconds=300" />
 </p>
