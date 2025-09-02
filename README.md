@@ -17,7 +17,7 @@ Estudante de Desenvolvimento de Sistemas apaixonado por desenvolvimento e design
   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />
   <br/>
-  Desenvolvimento de interfaces modernas com HTML e CSS
+  Desenvolvimento de interfaces modernas com <b>HTML e CSS</b>
 </p>
 
 🔧 Back-end  
@@ -25,7 +25,7 @@ Estudante de Desenvolvimento de Sistemas apaixonado por desenvolvimento e design
   <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <br/>
-  Experiência em **Java** e **MySQL**
+  Experiência em <b>Java e MySQL<b>
 </p>
 
 🛠 Ferramentas & Outros  
@@ -34,7 +34,7 @@ Estudante de Desenvolvimento de Sistemas apaixonado por desenvolvimento e design
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white" />
   <br/>
-  Boas práticas de **usabilidade**
+  Boas práticas de <b>usabilidade</b>
 </p>
 
 ---
